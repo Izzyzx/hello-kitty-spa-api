@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Hello Kitty", "alias": "Kitty White", "description": "Gatinha amigável que adora laços e amigos." },
+  { "id": 2, "name": "My Melody", "alias": "My Melody", "description": "Coelhinha doce e gentil." },
+  { "id": 3, "name": "Keroppi", "alias": "Keroppi", "description": "Sapo animado que adora aventuras." },
+  { "id": 4, "name": "Badtz-Maru", "alias": "Badtz-Maru", "description": "Pinguim travesso e sarcástico." }
+]
